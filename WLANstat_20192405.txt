@@ -1,0 +1,1118 @@
+14:18:57.47 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:02.18 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:07.17 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:12.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:13.05 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:18.19 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:23.27 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:28.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:33.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:38.23 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:43.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:48.25 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:53.25 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:19:58.18 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:03.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:08.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 86% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:13.18 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 65% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:18.15 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 80% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:23.25 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 82% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:28.23 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 70% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:33.29 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 0
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 53% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:38.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 0
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 83% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:43.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : disconnected
+    Radio status           : Hardware On
+                             Software On
+
+    Hosted network status  : Not available
+
+14:20:48.26 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4c:50
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 112
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 81% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:53.15 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4c:50
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 112
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 81% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:20:58.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4c:50
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 112
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 81% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:03.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4c:50
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 112
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 81% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:08.18 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:13.26 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:18.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:23.26 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:28.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:33.28 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:38.16 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 144.4
+    Transmit rate (Mbps)   : 144.4
+    Signal                 : 81% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:43.21 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:52:d0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 36
+    Receive rate (Mbps)    : 86.7
+    Transmit rate (Mbps)   : 86.7
+    Signal                 : 65% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:48.16 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:53.21 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:21:58.29 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 156
+    Transmit rate (Mbps)   : 156
+    Signal                 : 87% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:03.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 72.2
+    Transmit rate (Mbps)   : 72.2
+    Signal                 : 65% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:08.25 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 130
+    Transmit rate (Mbps)   : 130
+    Signal                 : 81% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:13.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 144.4
+    Transmit rate (Mbps)   : 144.4
+    Signal                 : 79% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:18.21 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:4d:b0
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 128
+    Receive rate (Mbps)    : 130
+    Transmit rate (Mbps)   : 130
+    Signal                 : 64% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:23.24 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e2:d0:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 100
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 72% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:28.23 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e2:d0:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 100
+    Receive rate (Mbps)    : 104
+    Transmit rate (Mbps)   : 104
+    Signal                 : 58% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:33.20 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e2:d0:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 100
+    Receive rate (Mbps)    : 117
+    Transmit rate (Mbps)   : 117
+    Signal                 : 57% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:38.16 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e2:d0:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 100
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 82% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
+14:22:43.29 
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Dual Band Wireless-AC 8260
+    GUID                   : ee8bb49d-7832-41e5-8870-8779870673d5
+    Physical address       : 74:70:fd:3e:57:7e
+    State                  : connected
+    SSID                   : srp
+    BSSID                  : a8:bd:27:e4:56:10
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 64
+    Receive rate (Mbps)    : 173.3
+    Transmit rate (Mbps)   : 173.3
+    Signal                 : 91% 
+    Profile                : srp 
+
+    Hosted network status  : Not available
+
