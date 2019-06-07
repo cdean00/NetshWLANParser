@@ -3,7 +3,10 @@ import csv
 from pprint import pprint
 import os
 
-#TO DO: Add argparse to get ride of manually code edit for WLANstat file.
+'''
+TO DO: 
+- Add argparse to get rid of manual code edit for WLANstat file.
+'''
 
 template_file = os.path.abspath('./TesxFSMTemplates/netsh_wlan_show_interface.template')
 data_file = os.path.abspath('./WLANstat_20192405.txt')
